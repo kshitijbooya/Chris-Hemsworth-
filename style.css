@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+#chris{
+    margin-top:400px;
+    width:175px;
+    margin-bottom: 50px;
+    border-radius: 60%;
+}
+#welcome {
+    position: absolute;
+    height: 800px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient( #1219e0 0%, #db1414 100%);
+}
+.menu {
+list-style: none;
+font-family: cursive;
+top: 10px;
+position:absolute;
+right: 130px;
+z-index:10;
+cursor: pointer ;
+}
+
+.links{
+    float:left;
+    color:red;
+    padding-top:6px;
+    padding-left: 9px;
+    padding-right:9px;
+    padding-bottom:5px;
+    font-family: fantasy;
+    font-size:20px;
+
+}
